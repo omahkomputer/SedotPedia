@@ -2,4 +2,5 @@ sapi
 gedi
 tua
 ikan
+baru
 ...
