@@ -1,4 +1,5 @@
 sapi
 gedi
 tua
+ikan
 ...
