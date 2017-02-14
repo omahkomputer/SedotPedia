@@ -1,4 +1,2 @@
 # SedotPedia
-Dropship Bot
-
-Video Chanel : 
+mastering console.
