@@ -1,2 +1,1 @@
-# SedotPedia
-mastering console.
+# python programming
